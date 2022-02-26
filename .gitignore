@@ -1,0 +1,6 @@
+*.png
+*.tif
+*.TIF
+.ipynb_checkpoints/
+__pycache__/
+unet_membrane.hdf5
