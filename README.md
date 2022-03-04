@@ -2,6 +2,8 @@
 
 The architecture was inspired by [U-Net: Convolutional Networks for Biomedical Image Segmentation](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
 
+https://medium.com/coinmonks/learn-how-to-train-u-net-on-your-dataset-8e3f89fbd623
+
 ---
 
 ## Overview
